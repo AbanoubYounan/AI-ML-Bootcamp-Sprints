@@ -1,0 +1,42 @@
+,Entity,Label
+0,TechCorp,ORG
+1,New York,GPE
+2,Monday,DATE
+3,Jane Doe,PERSON
+4,AI,GPE
+5,Paris,GPE
+6,next month,DATE
+7,Mark Smith,PERSON
+8,HealthOrg,ORG
+9,Apple,ORG
+10,the Global Tech Summit,ORG
+11,2024,DATE
+12,Lionel Messi,PERSON
+13,Argentine,NORP
+14,$20 million,MONEY
+15,Miami,GPE
+16,"July 15, 2023",DATE
+17,Hard Rock Stadium,FAC
+18,Florida,GPE
+19,South America,LOC
+20,John Harper,PERSON
+21,German,NORP
+22,Angela Weber,PERSON
+23,Berlin,GPE
+24,last Friday,DATE
+25,NATO,ORG
+26,The United Nations,ORG
+27,Geneva,GPE
+28,Switzerland,GPE
+29,December 2025,DATE
+30,Congress,ORG
+31,Marie Curie,PERSON
+32,Warsaw,GPE
+33,1867,DATE
+34,the Nobel Prize in Chemistry,WORK_OF_ART
+35,1911,DATE
+36,'The Great Gatsby,WORK_OF_ART
+37,Jay Gatsby,PERSON
+38,West Egg,GPE
+39,New York,GPE
+40,Nature Journal,ORG
